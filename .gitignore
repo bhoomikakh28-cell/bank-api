@@ -1,0 +1,16 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+bank.db
+.DS_Store
+
+# Legacy/old project files
+app.py
+crud.py
+database.py
+models.py
+schemas.py
+backend/
